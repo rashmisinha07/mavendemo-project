@@ -1,0 +1,8 @@
+2020-03-29 19:22:10,003 +0200 [main] DEBUG (App.java:19) - 15
+2020-03-29 19:22:10,006 +0200 [main] DEBUG (App.java:20) - 5
+2020-03-29 19:22:10,007 +0200 [main] DEBUG (App.java:21) - 50
+2020-03-29 19:22:10,007 +0200 [main] DEBUG (App.java:22) - 2
+2020-03-29 20:00:14,955 +0200 [com.learnmaven.mavendemo.App.main()] DEBUG (App.java:19) - 15
+2020-03-29 20:00:14,958 +0200 [com.learnmaven.mavendemo.App.main()] DEBUG (App.java:20) - 5
+2020-03-29 20:00:14,964 +0200 [com.learnmaven.mavendemo.App.main()] DEBUG (App.java:21) - 50
+2020-03-29 20:00:14,964 +0200 [com.learnmaven.mavendemo.App.main()] DEBUG (App.java:22) - 2
